@@ -3,6 +3,8 @@ module Main where
 import Data.Char
 import TooSimpleParseLib
 
+--Minor adjustment by Tom
+
 pStatement :: String
 pStatement = show pCountry
 
